@@ -1,0 +1,59 @@
+Product: Apple iPhone 15 Pro
+Price: $999
+Features: 6.1" Super Retina XDR display, A17 Pro chip, 48MP main camera, USB-C
+Colors: Black Titanium, White Titanium, Blue Titanium, Natural Titanium
+Availability: In stock
+
+Product: Samsung Galaxy S24 Ultra
+Price: $1,299
+Features: 6.8" Dynamic AMOLED 2X, Snapdragon 8 Gen 3, 200MP main camera, S Pen
+Colors: Titanium Black, Titanium Gray, Titanium Violet, Titanium Blue
+Availability: In stock
+
+Product: Sony WH-1000XM5 Headphones
+Price: $399
+Features: Active Noise Cancellation, 30-hour battery life, Hi-Res Audio, Bluetooth 5.2
+Colors: Black, Silver
+Availability: In stock
+
+Product: Apple MacBook Pro 16" (M3 Max)
+Price: $3,499
+Features: 16.2" Liquid Retina XDR, M3 Max chip, 1TB SSD, 32GB RAM, macOS
+Colors: Space Gray, Silver
+Availability: In stock
+
+Product: Samsung Galaxy Tab S9 Ultra
+Price: $1,199
+Features: 14.6" Dynamic AMOLED 2X, Snapdragon 8 Gen 2, 1TB storage, S Pen support
+Colors: Graphite, Beige
+Availability: In stock
+
+Google Pixel 8 Pro
+Price: $999
+Features: 6.7” LTPO OLED, Google Tensor G3 chip, 50MP camera, 12GB RAM, 5000mAh battery.
+Colors: Obsidian, Bay, Porcelain.
+Stock: Available.
+
+Microsoft Surface Laptop 6
+Price: $1,299
+Features: 13.5” PixelSense Touchscreen, Intel Core i7, 16GB RAM, 512GB SSD.
+Colors: Platinum, Black.
+Stock: Available.
+
+Dell XPS 17
+Price: $2,099
+Features: 17” InfinityEdge 4K Display, Intel Core i9, RTX 4060, 32GB RAM, 1TB SSD.
+Colors: Silver, Black.
+Stock: Available.
+
+Sony PlayStation 5
+Price: $499
+Features: AMD Ryzen Zen 2 CPU, Ray Tracing, 16GB GDDR6, 825GB SSD.
+Stock: Available.
+
+Bose QuietComfort Ultra
+Price: $399
+Features: Active Noise Cancellation, 24-hour battery, Bluetooth 5.3, USB-C charging.
+Colors: Black, White.
+Stock: Available.
+

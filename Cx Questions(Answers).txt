@@ -1,0 +1,26 @@
+1. Question: "How much is the iPhone 15 Pro?"
+Expected Answer: The price of the iPhone 15 Pro is $999. It features a 6.1" Super Retina XDR display, an A17 Pro chip, a 48MP main camera, and USB-C connectivity. It is available in Black Titanium, White Titanium, Blue Titanium, and Natural Titanium. Would you like to know more about its specifications or availability?
+
+2. Question: What are your shipping options?
+Expected Answer: We offer standard, express, and overnight shipping.
+
+Standard shipping: 5-7 business days (Free on orders above $50).
+Express shipping: 2-3 business days ($9.99).
+Overnight shipping: Next-day delivery ($19.99).
+Would you like to proceed with an order or check estimated delivery dates for your location?
+
+3. Question: "What is the cheapest smartphone available?"
+Expected Answer: Our most affordable smartphone is the Moto G Play (2023), priced at $149. It features a 6.5" HD+ display, 32GB storage, and a 5000mAh battery. Would you like to see more budget-friendly options?
+
+4. Question: "What is your return policy?
+Expected Answer: We accept returns within 30 days of purchase under the following conditions:
+
+The item must be in original condition, with packaging and accessories.
+Return shipping is free for defective or incorrect items.
+Refunds are processed within 5-7 business days after inspection.
+Would you like to start a return request?"
+
+5. Question: How do I track my order?
+Expected Answer: You can track your order by visiting our website and entering your order number under the 'Track Order' section.
+Alternatively, check your email for the tracking link sent after shipping confirmation.
+Would you like me to resend the tracking details to your email?
